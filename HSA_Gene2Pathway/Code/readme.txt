@@ -1,8 +1,6 @@
-# In his name
 # Name: readme.txt
 # Author: Arezoo Movaghar (amovaghar@wisc.edu, muvaghar@gmail.com)
 # Descriptoin: This file contains a brif description about 4 scripts(hsa_pathway_2_gene_map.R, hsa_gene_2_pathway_map.R, hsa_PathID2Name, and read_maps.R) and their output files.
-# Persepolis Group - University of Wisconsin-Madison	
 #
 
 hsa_gene_2_pathway_map.R and hsa_pathway_2_gene_map.R
